@@ -1,12 +1,12 @@
 [
   {
-    "account":    "Nick0703",
+    "account":    "PAC-samsung",
     "repository": "android_device_samsung_p5110",
     "target_path": "device/samsung/p5110",
     "revision":    "cm-10.1"
   },
   {
-    "account":    "Nick0703",
+    "account":    "PAC-samsung",
     "repository": "android_device_samsung_omap4-common",
     "target_path": "device/samsung/omap4-common",
     "revision":    "cm-10.1"
@@ -15,7 +15,7 @@
     "account":    "kumajaya",
     "repository": "android_kernel_samsung_espresso10",
     "target_path": "kernel/samsung/espresso10",
-    "revision":    "cm-10.1-blackhawk"
+    "revision":    "cm-10.1-blackhawk-pac"
   },
   {
     "account":    "CyanogenMod",
@@ -24,7 +24,7 @@
     "revision":    "cm-10.1"
   },
   {
-    "account":    "PAC-man",
+    "account":    "TheMuppets",
     "repository": "proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision":    "cm-10.1"
